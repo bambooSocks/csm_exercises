@@ -1,0 +1,7 @@
+/home/matej/dev/git/csm_exercises/vending_machine/bin/Debug/netcoreapp2.2/vending_machine.dll
+/home/matej/dev/git/csm_exercises/vending_machine/bin/Debug/netcoreapp2.2/vending_machine.pdb
+/home/matej/dev/git/csm_exercises/vending_machine/obj/Debug/netcoreapp2.2/vending_machine.fsprojAssemblyReference.cache
+/home/matej/dev/git/csm_exercises/vending_machine/obj/Debug/netcoreapp2.2/vending_machine.AssemblyInfoInputs.cache
+/home/matej/dev/git/csm_exercises/vending_machine/obj/Debug/netcoreapp2.2/vending_machine.AssemblyInfo.fs
+/home/matej/dev/git/csm_exercises/vending_machine/obj/Debug/netcoreapp2.2/vending_machine.dll
+/home/matej/dev/git/csm_exercises/vending_machine/obj/Debug/netcoreapp2.2/vending_machine.pdb
